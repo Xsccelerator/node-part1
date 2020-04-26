@@ -1,0 +1,1 @@
+Hello world! Новый текст с функции appendFile
